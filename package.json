@@ -12,7 +12,7 @@
     "gatsby": "^2.3.21",
     "gatsby-mdx": "^0.6.1",
     "gatsby-remark-katex": "^3.0.4",
-    "gatsby-transformer-remark": "^2.4.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "katex": "^0.10.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
